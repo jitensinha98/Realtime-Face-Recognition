@@ -16,6 +16,9 @@ python3 face_recognition.py
 ```
 - Press ***'a'*** to stop the program.
 
+# Test Image
+![picture](Test_Image.png)
+
 ## Author
 - ***Jiten DInha*** - [LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
 
